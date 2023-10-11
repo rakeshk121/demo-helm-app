@@ -1,2 +1,2 @@
 # demo-helm-app
-Hello world
+Hello world app
