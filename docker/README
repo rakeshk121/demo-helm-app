@@ -1,0 +1,1 @@
+sudo docker build -t coredgeio/demo-app:v2.0 --build-arg VERSION=v2.0 .

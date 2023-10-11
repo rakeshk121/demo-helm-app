@@ -1,0 +1,5 @@
+apiVersion: v2
+appVersion: "v1.0"
+description: Coredge Demo Application
+name: demo-app
+version: 0.1.0
